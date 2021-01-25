@@ -14,7 +14,7 @@ This project is treeware! If you found it useful then please [plant a tree for m
 
 [![Buy me a tree!](buy-me-a-tree.svg)](https://offset.earth/unitsetsoftware)
 
-## UK National Rail Live Departure Boards JSON proxy
+## UK National Rail Live Departure Boards JSON proxy.
 
 Huxley is a [CORS](http://enable-cors.org/) enabled JSON proxy for the UK National Rail Enquiries Live Departure Board [SOAP](http://harmful.cat-v.org/software/xml/soap/simple) [API](http://www.nationalrail.co.uk/46391.aspx) (Darwin), including the staff version.
 It aims to make the API available to many more tools on multiple platforms. You no longer need .NET on Windows to use Darwin.
